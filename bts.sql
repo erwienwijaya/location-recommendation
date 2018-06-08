@@ -1,6 +1,6 @@
 /*
 Navicat MySQL Data Transfer
-
+Git test
 Source Server         : mysql
 Source Server Version : 50716
 Source Host           : localhost:3306
